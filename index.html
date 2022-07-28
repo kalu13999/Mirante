@@ -30,9 +30,19 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+	
 </head>
 
 <body>
+	<script type="text/javascript">
+      document.getElementById('inputFile').addEventListener('change', function() {
+        var file = new FileReader();
+        file.onload = () => {
+          document.getElementById('output').textContent = file.result;
+        }
+        file.readAsText(this.files[0]);
+      });
+    </script>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
@@ -75,6 +85,9 @@
                 <div class="container my-5 py-5">
                     <div class="row align-items-center g-5">
                         <div class="col-lg-6 text-center text-lg-start">
+				<input type="file" name="inputFile" id="inputFile">
+				    <br>
+				    <pre id="output"></pre>
                             <h1 class="display-3 text-white animated slideInLeft">Refeições <br> Deliciosas</h1>
                             <p class="text-white animated slideInLeft mb-4 pb-2">Oferecemos-lhe um espaço simpático e acolhedor, com bastante luz natural e uma magnífica vista para a serra. A ementa varia entre pratos regionais e especialidades italianas.</p>
                             <a href="menu.html" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft" >Ver Ementa</a>
