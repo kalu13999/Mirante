@@ -3,10 +3,21 @@
 <div class='d-flex align-items-center'>
 <div class='w-100 d-flex flex-column text-start ps-4'>
 <h5 class='d-flex justify-content-between border-bottom pb-2'>
-<span>aaaaaaa</span >
-<span class='text-primary'>4444</span>
+<span>fdgsf</span >
+<span class='text-primary'>435345</span>
 </h5>
-<small class='fst-italic'>rff</small><p></p>
+<small class='fst-italic'>dfgd</small><p></p>
+</div>
+</div>
+</div>
+<div class='col-lg-6'>
+<div class='d-flex align-items-center'>
+<div class='w-100 d-flex flex-column text-start ps-4'>
+<h5 class='d-flex justify-content-between border-bottom pb-2'>
+<span>fdgsf</span >
+<span class='text-primary'>435345</span>
+</h5>
+<small class='fst-italic'>dfgd</small><p></p>
 </div>
 </div>
 </div>
