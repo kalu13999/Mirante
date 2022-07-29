@@ -3,10 +3,10 @@
 <div class='d-flex align-items-center'>
 <div class='w-100 d-flex flex-column text-start ps-4'>
 <h5 class='d-flex justify-content-between border-bottom pb-2'>
-<span>Bacalhau á brás</span >
-<span class='text-primary'>10,50€</span>
+<span>kalu</span >
+<span class='text-primary'>10000</span>
 </h5>
-<small class='fst-italic'>bom</small><p></p>
+<small class='fst-italic'>fhfd</small><p></p>
 </div>
 </div>
 </div>
@@ -14,10 +14,10 @@
 <div class='d-flex align-items-center'>
 <div class='w-100 d-flex flex-column text-start ps-4'>
 <h5 class='d-flex justify-content-between border-bottom pb-2'>
-<span>Bacalhau á go</span >
-<span class='text-primary'>10,50€</span>
+<span>kalu</span >
+<span class='text-primary'>10000</span>
 </h5>
-<small class='fst-italic'>bom</small><p></p>
+<small class='fst-italic'>fhfd</small><p></p>
 </div>
 </div>
 </div>
