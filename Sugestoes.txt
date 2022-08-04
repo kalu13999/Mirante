@@ -1,0 +1,34 @@
+
+<div class='col-lg-6'>
+<div class='d-flex align-items-center'>
+<div class='w-100 d-flex flex-column text-start ps-4'>
+<h5 class='d-flex justify-content-between border-bottom pb-2'>
+<span>Bitoque de Frango</span >
+<span class='text-primary'>7.25€</span>
+</h5>
+<small class='fst-italic'></small><p></p>
+</div>
+</div>
+</div>
+<div class='col-lg-6'>
+<div class='d-flex align-items-center'>
+<div class='w-100 d-flex flex-column text-start ps-4'>
+<h5 class='d-flex justify-content-between border-bottom pb-2'>
+<span>Bifinhos de Frango c/ Cogumelos</span >
+<span class='text-primary'>8.45€</span>
+</h5>
+<small class='fst-italic'></small><p></p>
+</div>
+</div>
+</div>
+<div class='col-lg-6'>
+<div class='d-flex align-items-center'>
+<div class='w-100 d-flex flex-column text-start ps-4'>
+<h5 class='d-flex justify-content-between border-bottom pb-2'>
+<span>Chocos Grelhados </span >
+<span class='text-primary'>9.00€</span>
+</h5>
+<small class='fst-italic'></small><p></p>
+</div>
+</div>
+</div>
